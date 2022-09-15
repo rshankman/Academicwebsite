@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include reentry from incarceration and societal responses to those with criminal records. 
 # Interests to show in About widget
 interests:
-  - Rentry from incarceration
+  - Reentry from incarceration
   - Societal responses to those with criminal records
   - Collateral consequences of incarceration
 

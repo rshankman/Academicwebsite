@@ -38,16 +38,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/rshankman
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=JRKqWaAAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rebecca-shankman/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -63,6 +60,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am Rebecca Shankman. As a sociology PhD student at Ohio State University I focus on multiple aspects of reentry from incarceration. My main interests are the reentry process itself, societal reactions to those with criminal records, and the perspective on government legitimacy of those who are disenfranchised. I have quantitative and qualitative research experience from both undergrad and grad school. I have also worked outside the academic sphere in both non-profit and policy research. 
+Hi! I am Rebecca Shankman. As a sociology PhD student at [Ohio State University] (https://sociology.osu.edu/) I focus on multiple aspects of reentry from incarceration. My main interests are the reentry process itself, societal reactions to those with criminal records, and the perspective on government legitimacy of those who are disenfranchised. I have quantitative and qualitative research experience from both undergrad and grad school. I have also worked outside the academic sphere in both non-profit and [policy] (https://www.brookings.edu/author/rebecca-shankman/) research. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -63,8 +63,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I am Rebecca Shankman. As a sociology PhD student at Ohio State University I focus on multiple aspects of reentry from incarceration. My main interests are the reentry process itself, societal reactions to those with criminal records, and the perspective on government legitimacy of those who are disenfranchised. I have quantitative and qualitative research experience from both undergrad and grad school. I have also worked outside the academic sphere in both non-profit and policy research. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

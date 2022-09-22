@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: shankman.14@buckeyemail.osu.edu
-  phone: 888 888 88 88
+  # phone: 888 888 88 88
   address:
     street: 1885 Neil Avenue
     city: Columbus

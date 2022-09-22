@@ -62,6 +62,6 @@ highlight_name: true
 
 Hi! I am Rebecca Shankman. As a sociology PhD student at [Ohio State University](https://sociology.osu.edu/) I focus on multiple aspects of reentry from incarceration. My main interests are the reentry process itself, societal reactions to those with criminal records, and the perspective on government legitimacy of those who are disenfranchised. I have quantitative and qualitative research experience from both undergrad and grad school. I have also worked outside the academic sphere in both non-profit and [policy](https://www.brookings.edu/author/rebecca-shankman/) research. 
 
-In my undergraduate career at the University of Maryland I worked with the [Lab for Applied Social Science Research](https://sites.google.com/view/lassr), the (Sociology Group Processes Lab)[https://terpconnect.umd.edu/~longdoan/groupslab/] at UMD, and the Serious Violent Offender Project with the Criminology department. 
+In my undergraduate career at the University of Maryland I worked with the [Lab for Applied Social Science Research](https://sites.google.com/view/lassr), the [Sociology Group Processes Lab](https://terpconnect.umd.edu/~longdoan/groupslab/) at UMD, and the Serious Violent Offender Project with the Criminology department. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

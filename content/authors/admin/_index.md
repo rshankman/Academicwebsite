@@ -46,12 +46,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/rebecca-shankman/
 
-Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/shankmanresume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -64,4 +59,4 @@ Hi! I am Rebecca Shankman. As a sociology PhD student at [Ohio State University]
 
 In my undergraduate career at the University of Maryland I worked with the [Lab for Applied Social Science Research](https://sites.google.com/view/lassr), the [Sociology Group Processes Lab](https://terpconnect.umd.edu/~longdoan/groupslab/) at UMD, and the Serious Violent Offender Project with the Criminology department. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/shankmanresume.pdf" "newtab" >}}C.V.{{< /staticref >}}.
